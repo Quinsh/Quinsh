@@ -10,7 +10,7 @@ Always thinking on coming up with groundbreaking ideas to make people's lives ea
 2023 - : **Python & ML**, Tensorflow, **Web Dev**!  
 
 📌 Currently, I'm learning web development, which is something new to me.  
-I am practicing problem solving and writing clean & efficient code.  
+I am practicing problem solving and writing clean/efficient code for collaboration.  
 
 ### Biggest Works:
 
