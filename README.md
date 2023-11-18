@@ -9,8 +9,8 @@ Always thinking on coming up with groundbreaking ideas to make people's lives ea
 2022 : **Problem Solving** (DP, BFS/DFS, Data Structures, Sorting)  
 2023 - : **Python & ML**, Tensorflow, **Web Dev**!  
 
-📌 Currently, I'm learning web development, which is something new to me.  
-I am practicing problem solving and writing clean/efficient code for collaboration.  
+📌 Currently, I'm learning C++ and practicing DSA.
+Also planning to learn some Python libraries and dive into ML in near future.
 
 ### Biggest Works:
 
