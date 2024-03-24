@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Gun Woo Kim. I love creative ideas and implementing them in teams.
+I am Gun Woo Kim. I love creative ideas and implementing them in teams.  
 I have a [blog website](quinsh.github.io) where I share my programming and life journey.
 
 ### 🗓️ Past and Current Interests
