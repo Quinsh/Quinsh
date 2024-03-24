@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Gun Woo Kim. I love creative ideas and implementing them in teams.  
-I have a [blog website](quinsh.github.io) where I share my programming and life journey.
+I have a [blog website](https://quinsh.github.io) where I share my programming and life journey.
 
 ### 🗓️ Past and Current Interests
 2018-2021 : **C** and game dev with C# + **Unity**  
