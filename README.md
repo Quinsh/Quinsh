@@ -1,29 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gun Woo (Eric) Kim</h1>
+<h3 align="center">future ASI developer.</h3>
 
-I am Gun Woo Kim. I love creative ideas and implementing them in teams.  
-I have a [blog website](https://quinsh.github.io) where I share my programming and life journey.
+- 🌱 I’m currently learning **ML & AI**
 
-### 🗓️ Past and Current Interests
-2018-2021 : **C** and game dev with C# + **Unity**  
-2021 : App dev with Java & **Android Studio**  
-2022 : **Problem Solving** (DP, BFS/DFS, Data Structures, Sorting)  
-2023 - : **Python & ML**
+- 📝 I regularly write articles on [https://quinsh.github.io/](https://quinsh.github.io/)
 
-### Biggest Works:
+- 📫 How to reach me **quinshh@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gunwook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunwook" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/senadiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senadiel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/quinsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quinsh" height="30" width="40" /></a>
+<a href="/https://quinsh.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://quinsh.github.io/" height="30" width="40" /></a>
+</p>
 
-<!--
-**closhu/closhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quinsh&show_icons=true&locale=en&layout=compact" alt="quinsh" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quinsh&show_icons=true&locale=en" alt="quinsh" /></p>
