@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/gunwook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunwook" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/senadiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senadiel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quinsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quinsh" height="30" width="40" /></a>
-<a href="https://solved.ac/profile/senadiel" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsolved-ac&psig=AOvVaw0jE4ZpYgX9ttNzWDIeb3de&ust=1711734476795000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIino_3Bl4UDFQAAAAAdAAAAABAE" alt="quinsh" height="30" width="40" /></a>
+<a href="https://solved.ac/profile/senadiel" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/58624023?s=200&v=4" alt="quinsh" height="30" width="40" /></a>
 
 
 </p>
