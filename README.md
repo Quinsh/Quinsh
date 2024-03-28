@@ -1,37 +1,29 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Gun Woo (Eric) Kim</h1>
+<h3 align="center">future ASI developer.</h3>
 
-###
+- 🌱 I’m currently learning **ML & AI**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quinsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quinsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 📝 I regularly write articles on [https://quinsh.github.io/](https://quinsh.github.io/)
 
-###
+- 📫 How to reach me **quinshh@gmail.com**
 
-<img align="right" height="150" src="https://github.com/Quinsh/Quinsh.github.io/blob/master/images/config/profile.jpg"  />
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gunwook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunwook" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/senadiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senadiel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/quinsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quinsh" height="30" width="40" /></a>
+<a href="https://solved.ac/profile/senadiel" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsolved-ac&psig=AOvVaw0jE4ZpYgX9ttNzWDIeb3de&ust=1711734476795000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIino_3Bl4UDFQAAAAAdAAAAABAE" alt="quinsh" height="30" width="40" /></a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
 
-###
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quinsh&show_icons=true&locale=en&layout=compact" alt="quinsh" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/quinsh/quinsh/output/snake.svg" alt="Snake animation" />
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quinsh&show_icons=true&locale=en" alt="quinsh" /></p>
