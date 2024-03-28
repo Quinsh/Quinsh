@@ -7,17 +7,12 @@
 
 - 📫 How to reach me **quinshh@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gunwook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunwook" height="35" width="40" /></a>
-  <a href="https://solved.ac/profile/senadiel"><img align="center" src="https://avatars.githubusercontent.com/u/58624023?s=200&v=4" alt="quinsh" height="35" width="40" /></a>
-<a href="https://codeforces.com/profile/senadiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senadiel" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/gunwook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunwook" height="35" width="40" /></a> 
+<a href="https://solved.ac/profile/senadiel"><img align="center" src="https://avatars.githubusercontent.com/u/58624023?s=200&v=4" alt="quinsh" height="35" width="40" /></a> 
+<a href="https://codeforces.com/profile/senadiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senadiel" height="35" width="40" /></a> 
 <a href="https://www.leetcode.com/quinsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quinsh" height="35" width="40" /></a>
-
 
 
 </p>
