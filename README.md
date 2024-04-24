@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gun Woo (Eric) Kim</h1>
-<h3 align="center">future ASI developer.</h3>
+<h3 align="center">future developer.</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/gunwook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunwook" height="35" width="35" /></a> &nbsp
@@ -8,7 +8,7 @@
 <a href="https://codeforces.com/profile/senadiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="senadiel" height="35" width="35" /></a> 
 </p>
 
-- 🌱 I’m currently learning **ML & AI**
+- 🌱 I’m currently learning **-**
 
 - 📝 I regularly write articles on [https://quinsh.github.io/](https://quinsh.github.io/)
 
