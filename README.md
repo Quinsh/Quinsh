@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **-**
 
-- 📝 I regularly write articles on [https://quinsh.github.io/](https://quinsh.github.io/)
+- 📝 I regularly write articles on 
 
 - 📫 How to reach me **quinshh@gmail.com**
 
