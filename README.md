@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gun Woo (Eric) Kim</h1>
+<h1 align="center">Hi 👋, I'm Gun Woo (Kai) Kim</h1>
 <h3 align="center">future developer.</h3>
 
 <p align="center">
